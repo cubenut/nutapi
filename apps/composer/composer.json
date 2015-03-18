@@ -1,0 +1,8 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "dev-master",
+		"facebook/xhprof": "dev-master",
+		"phpunit/phpunit": "4.7.*@dev",
+		"phalcon/incubator": "dev-master"
+    }
+}
