@@ -11,9 +11,9 @@ return new \Phalcon\Config(array(
 
     'database' => array(
         'adapter' => 'Mysql',
-        'host' => '182.254.147.104',
-        'username' => 'root',
-        'password' => '7232275',
+        'host' => '',
+        'username' => '',
+        'password' => '',
         'dbname' => 'nutapi',
         'charset' => 'utf8'
     ),
